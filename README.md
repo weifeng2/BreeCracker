@@ -12,6 +12,8 @@
 
 开源中国地址： https://gitee.com/songgnihao/BreeCracker
 
+github地址：https://github.com/weifeng2/BreeCracker
+
 
 
 ### 说明
