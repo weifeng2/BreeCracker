@@ -20,7 +20,4 @@
 
 开源不易，剽窃容易，望各位剽窃的，如果对您有帮助，希望可以打赏下，谢谢。
 
-![image-20210813104416286](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210813104416286.png)
-
-
-
+![](https://github.com/weifeng2/BreeCracker/blob/master/my.jpg)
